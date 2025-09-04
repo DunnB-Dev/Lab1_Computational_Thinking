@@ -300,9 +300,9 @@ Keep up the consistent effort!
 # Submission Requirements
 
 Submit all your C# files with proper documentation:
-- [ ] `dataProcessor.cs` - Your code to calculate the totals and averages from Activity 2
-- [ ] `academicAdvisor.cs` - Your complete academic advisor program  
+- [ ] `dataProcessor.cs` - Your code to calculate the totals and averages from Phase 1
 - [ ] `pseudocode.txt` - Your pseudocode for the advisor program
+- [ ] `academicAdvisor.cs` - Your complete academic advisor program from Phase 2
 
 **Code Requirements**:
 - [ ] Code uses meaningful variable names
