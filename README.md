@@ -244,7 +244,7 @@ void Main()
     string letterGrade = GetLetterGrade(currentGrade);
     
     // Display current status
-    Console.WriteLine($"Your current grade is: {currentGrade:F2}% ({letterGrade})");
+    Console.WriteLine($"Your current grade is: {currentGrade}%, ({letterGrade})");
     
     // Provide advice based on grade
     if (letterGrade == "F") {
