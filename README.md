@@ -50,14 +50,6 @@ wednesdayTemp = 70
 averageTemp = (mondayTemp + tuesdayTemp + wednesdayTemp) / 3
 ```
 
-**Task 3: Calculate total study hours**
-```csharp
-mathHours = 4
-scienceHours = 6
-englishHours = 3
-totalHours = mathHours + scienceHours + englishHours
-```
-
 
 ### Part B: Creating Pattern Solutions
 
