@@ -218,7 +218,7 @@ END AcademicAdvisor
 *Create a new file: `academicAdvisor.cs`*
 
 ## Convert Your Pseudocode to C#
-Now implement your academic advisor as a Python program.
+Now implement your academic advisor as a C# program.
 
 ### Part A: Basic Implementation
 Create `academicAdvisor.cs` and translate your pseudocode to C#:
@@ -311,7 +311,7 @@ Keep up the consistent effort!
 
 # Submission Requirements
 
-Submit all your Python files with proper documentation:
+Submit all your C# files with proper documentation:
 - [ ] `dataProcessor.cs` - Your code to calculate the totals and averages from Activity 2
 - [ ] `academicAdvisor.cs` - Your complete academic advisor program  
 - [ ] `pseudocode.txt` - Your pseudocode for the advisor program
