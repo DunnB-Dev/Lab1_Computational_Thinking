@@ -1,4 +1,4 @@
-# CSCI 1250 Lab 1: Solving Problems Like A Computer
+# CSCI 1250 Lab 1: Computational Thinking
 
 ## Learning Objectives
 By the end of this lab, you will be able to:
