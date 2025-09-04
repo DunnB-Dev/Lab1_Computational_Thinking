@@ -69,9 +69,6 @@ totalHours = mathHours + scienceHours + englishHours
 float CalculateTotal(value1, value2, value3):
     // TODO: Calculate the total of the three values
     totalNumber = 0  # Replace this line with your calculation
-    
-    // This print statement is provided for you
-    Console.WriteLine($"Total: {total}");
     return totalNumber
 
 float CalculateAverage(value1, value2, value3, data_type="float"):
