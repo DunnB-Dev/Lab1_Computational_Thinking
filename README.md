@@ -91,7 +91,7 @@ float CalculateAverage(value1, value2, value3, data_type="float"):
     float course1 = Convert.ToSingle(Console.ReadLine());
     Console.Write("Enter CSCI 1100 enrollment: ");
     float course2 = Convert.ToSingle(Console.ReadLine());
-    Console.Write("Enter CSCI 2400 enrollment: ");
+    Console.Write("Enter CSCI 2020 enrollment: ");
     float course3 = Convert.ToSingle(Console.ReadLine());
 
     float totalEnrolled = CalculateTotal(course1, course2, course3 );
