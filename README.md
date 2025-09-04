@@ -177,6 +177,8 @@ END ProgramName
 ```
 BEGIN AcademicAdvisor
     DISPLAY "=== Academic Advisor ==="
+    SET grade weights
+
     
     // Get current grades
     DISPLAY "Enter your exit tickets average: "
