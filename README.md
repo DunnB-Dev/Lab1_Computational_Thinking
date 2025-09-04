@@ -248,7 +248,7 @@ void Main()
 {
     Console.WriteLine("=== Academic Advisor ===");
     
-    // Get current grades
+    // Get current grades from user input
     // Your code here
     
     // Calculate current grade from user input
