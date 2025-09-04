@@ -121,8 +121,8 @@ void Main() {
     // Console.WriteLine($"Total students across all courses: {courseTotal}");
     // Console.WriteLine($"Average class size: {courseAvg}");
     // Console.WriteLine($"Average temperature: {tempAvg}°F");
-    Main();
 }
+Main();
 ```
 
 **Your Tasks**:
