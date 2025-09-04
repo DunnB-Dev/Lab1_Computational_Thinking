@@ -227,10 +227,9 @@ string GetLetterGrade(float percentage) {
 }
 
 float CalculateCurrentGrade(float exitTickets, float quizzes, float labs, float finalProject) {
-    // Your implementation here
-    // Calculate weighted average - can reuse from the grade calculator lab
+    // Calculate weighted average (graded item * (1/6)) - can reuse from the grade calculator lab
     
-    return 0;
+    return overallGrade;
 }
 
 void Main()
