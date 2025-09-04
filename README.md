@@ -72,7 +72,7 @@ float CalculateTotal(value1, value2, value3):
     return totalNumber
 
 float CalculateAverage(value1, value2, value3, data_type="float"):
-    // TODO: Calculate the total first (hint: you can call calculate_total as a recursive function call)
+    // TODO: Calculate the total first (hint: you can call CalculateTotal as a recursive function call)
     // TODO: Then calculate the average (total divided by 3)
     average = 0  // Replace this line with your calculation
     
