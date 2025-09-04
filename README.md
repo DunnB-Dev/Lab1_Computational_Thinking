@@ -152,7 +152,6 @@ Your advisor program should:
 1. Calculate a student's current grade
 2. Tell them what letter grade they have
 3. If they're failing, suggest which assignments to focus on
-4. Calculate what they need on the final project to reach their desired grade
 
 ### Part B: Algorithm Design in Pseudocode
 
